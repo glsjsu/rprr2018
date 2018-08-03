@@ -19,4 +19,5 @@ Structure of the package
 Required external functions:
 - The kmeans.m function, available through the Statistics and Machine Learning Toolbox, is needed by the main function ssc-cosine.m. If that toolbox is not available in the computer, then one may use instead a substitute kmeans implementation, such as the litekmeans.m function available at http://www.cad.zju.edu.cn/home/dengcai/Data/Clustering.html.
 - The bestMap.m function, available also on the above webpage, is needed by the scripts for finding the best match between the ground-truth labels and the group labels obtained by the function ssc-cosine.m, in order to compute the clustering accuracy.
+
 The litekmeans.m and bestMap.m functions have been included in this repository (for convenience).
