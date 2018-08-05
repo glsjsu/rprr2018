@@ -5,7 +5,7 @@ This documentation explains how to execute the Matlab codes for the algorithm pr
  
 
 To reproduce all the results of the paper, just do the following:
-- download the .zip file and uncompress it into any folder
+- download the .zip file and uncompress it 
 - download the .mat files and store them in a subfolder called Data
 - run script_all.m from the parent folder in MATLAB.
 
