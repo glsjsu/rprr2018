@@ -5,8 +5,8 @@ This documentation explains how to execute the Matlab codes for the algorithm pr
  
 
 To reproduce all the results of the paper, just do the following:
-- download the .zip file and uncompress it 
-- download the .mat files and store them in a subfolder called Data
+- download the ssc-cosine.zip file and uncompress it 
+- download all the .mat files and store them in a subfolder called Data
 - run script_all.m from the parent folder in MATLAB.
 
 
@@ -23,7 +23,7 @@ Structure of the package
   
 - Scripts used to reproduce the results reported in the short paper:
   * script_20news_alpha_scalable3.m:    Figure 1
-  * script_tdt2_top30_DMt.m:            Figure 4
+  * script_tdt2_top30_DMt.m:            Figure 2
 
 
 Required external functions:
