@@ -2,10 +2,9 @@
 
 This documentation explains how to execute the Matlab codes for the algorithm presented in the following paper 
    "Scalable Spectral Clustering with Cosine Similarity", G. Chen, ICPR 2018, Beijing, China
-and also indicates which scripts generate which results reported in the above paper.
+ 
 
-
-To reproduce all the results of the paper, just download the .zip file, uncompress it, and run script_all.m in MATLAB.
+To reproduce all the results of the paper, just download the rrpr18.zip file, uncompress it, and run script_all.m in MATLAB.
 
 
 Structure of the package
