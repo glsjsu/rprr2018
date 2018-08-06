@@ -1,12 +1,12 @@
 # Scalable Spectral Clustering with Cosine Similarity (ssc-cosine)
 
-This documentation explains how to execute the Matlab codes for the algorithm presented in the following paper 
+This is a brief documentation for the Matlab codes for the algorithm presented in the following paper 
    "Scalable Spectral Clustering with Cosine Similarity", G. Chen, ICPR 2018, Beijing, China
  
 
 To reproduce all the results of the paper, just do the following:
-- download the ssc-cosine.zip file and uncompress it 
-- download all the .mat files and store them in a subfolder called Data
+- Download the ssc-cosine.zip file and uncompress it 
+- Download all the .mat files and store them in a subfolder called Data. Run script_merge_data.m from the parent folder to merge portions of some data sets (20news and mnist) that are stored separately.
 - run script_all.m from the parent folder in MATLAB.
 
 
